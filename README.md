@@ -77,10 +77,10 @@ Classificação do Defeito:
 
 Aprendizado Demonstrado no Case:
 
-Visão crítica de regras de negócio
-Foco em impacto real ao usuário
-Capacidade de identificar falhas além do “happy path”
-Pensamento analítico e preventivo em QA
+- Visão crítica de regras de negócio
+- Foco em impacto real ao usuário
+- Capacidade de identificar falhas além do “happy path”
+- Pensamento analítico e preventivo em QA
 
 Observação:
 
