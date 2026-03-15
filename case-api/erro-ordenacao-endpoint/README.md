@@ -44,7 +44,7 @@ onde determinados campos, ao serem utilizados como critério de ordenação, faz
 
 # Análise Técnica:
 
-# Comportamento observado:
+Comportamento observado:
 - O endpoint aceita múltiplos parâmetros de ordenação
 - Apenas alguns valores específicos causam erro
 - Não há validação prévia ou mensagem clara de erro para o usuário
